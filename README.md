@@ -1,4 +1,4 @@
 # los_angeles
-# go my cities
+# go by cities
 # created for testing and random examples 
 
